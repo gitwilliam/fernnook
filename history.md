@@ -1,86 +1,36 @@
 ---
 layout: post
-category: example
+category: history
 ---
+
+# History and Geography
+Fernnook was and is a small community in Northeast Ripley County, Missouri.  In the early days of Fernnook, the community was centered around its Post Office which was located near the South Fork of the Little Black River.
 
 ![1904 Map of Ripley County, MO](/assets/images/mo-ripley-county-1904-map.jpeg "1904 Map of Ripley County, MO")
 
-Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
+## The Post Office
 
-# Sample heading 1
-## Sample heading 2
-### Sample heading 3
-#### Sample heading 4
-##### Sample heading 5
-###### Sample heading 6
+![Historical U.S. Postal Records of Fernnook](/assets/images/FernnookPostOffice1.jpeg "Historical U.S. Postal Records of Fernnook")
+Source: https://catalog.archives.gov/id/68498795?objectPage=146
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
+![Historical U.S. Postal Records of Fernnook](/assets/images/FernnookPostOffice2.jpeg "Historical U.S. Postal Records of Fernnook")
+Source: https://catalog.archives.gov/id/68498795?objectPage=147
 
-## Lists
+![Historical U.S. Postal Records of Fernnook](/assets/images/FernnookPostOffice3.jpeg "Historical U.S. Postal Records of Fernnook")
+Source: https://catalog.archives.gov/id/68498795?objectPage=148
 
-Unordered:
+![Historical U.S. Postal Records of Fernnook](/assets/images/FernnookPostOffice4.jpeg "Historical U.S. Postal Records of Fernnook")
+Source: https://catalog.archives.gov/id/68498795?objectPage=149
 
-- Fusce non velit cursus ligula mattis convallis vel at metus[^2].
-- Sed pharetra tellus massa, non elementum eros vulputate non.
-- Suspendisse potenti.
+The following images are of an envelope that was addressed to a resident of Fernnook in 1894, Miss Harriett "Hattie" Chappell (the author's 2nd great grandmother).
 
-Ordered:
+![Front of Envelope from Fernnook](/assets/images/fernnook_letter_1.jpg "Front of Envelope from Fernnook")
+![Back of Envelope from Fernnook](/assets/images/fernnook_letter_2.jpg "Back of Envelope from Fernnook")
 
-1. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc.
-2. Sed massa quam, auctor in eros quis, porttitor tincidunt orci.
-3. Nulla convallis id sapien ornare viverra.
-4. Nam a est eget ligula pellentesque posuere.
+## The People
+Many people have lived in or near Fernnook over the years.  This is one sample of the people that owned land in the year 1930.
 
-## Blockquote
+![1930 Plat Map of Fernnook](/assets/images/1930plat_fernnook.png "1930 Plat of Fernnook, MO")
 
-The following is a blockquote:
+Source: https://dl.mospace.umsystem.edu/mu/islandora/object/mu%3A129364#page/8/mode/2up
 
-> Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus.
-
-## Thematic breaks (<hr>)
-
-Mauris viverra dictum ultricies[^3]. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **You can put some text inside the horizontal rule like so.**
-
----
-{: data-content="hr with text"}
-
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **Or you can just have an clean horizontal rule.**
-
----
-
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. Or you can just have an clean horizontal rule.
-
-## Code
-
-Now some code:
-
-```
-const ultimateTruth = 'this theme is the best!';
-console.log(ultimateTruth);
-```
-
-And here is some `inline code`!
-
-## Tables
-
-Now a table:
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-## Images
-
-![theme logo](https://raw.githubusercontent.com/riggraz/no-style-please/master/logo.png){:.ioda}
-
-Logo of *no style, please!* theme[^4]
-
----
-{: data-content="footnotes"}
-
-[^1]: this is a footnote. It should highlight if you click on the corresponding superscript number.
-[^2]: hey there, i'm using no style please!
-[^3]: this is another footnote.
-[^4]: this is a very very long footnote to test if a very very long footnote brings some problems or not. I strongly hope that there are no problems but you know sometimes problems arise from nowhere.
