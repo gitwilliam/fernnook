@@ -22,5 +22,7 @@ entries:
         url: https://podcasters.spotify.com/pod/show/pickledpodcast/
 
   - title: Feedback? Fernnook stories to share?
-    url: mailto:editor@fernnook.org
+    entries:
+      - title: editor@fernnook.org 
+        url: mailto:editor@fernnook.org
         
