@@ -3,7 +3,6 @@ layout: post
 category: history
 ---
 
-# History and Geography
 Fernnook was and is a small community in Northeast Ripley County, Missouri.  In the early days of Fernnook, the community was centered around its Post Office which was located near the South Fork of the Little Black River.
 
 ![1904 Map of Ripley County, MO](/assets/images/mo-ripley-county-1904-map.jpeg "1904 Map of Ripley County, MO")
