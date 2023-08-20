@@ -9,3 +9,12 @@ entries:
     post_list:
       limit: 5
       show_more: true
+
+  - title: Related Sites
+    entries:
+      - title: Fernnook Farmgirl
+        url: https://fernnookfarmgirl.blogspot.com/
+
+      - title: Fleetwood Family Home
+        url: https://www.kjfleetwood.com/familyhome.htm
+        
