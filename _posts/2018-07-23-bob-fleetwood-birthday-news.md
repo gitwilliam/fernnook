@@ -11,7 +11,7 @@ Following is some information that helps put into perspective the situation at t
 
 Art and Iva Crow were neighbors who lived about a mile from the old Simon home place.
  Art was 37 and Iva was 21 that year. Iva had her own baby Mildred who was less than three years old.
-John and Hattie Simon had been married 48 years and were 76 and 56 years old respectively. 
+John and Hattie Simon had been married 28 years and were 76 and 56 years old respectively. 
 Opal’s brother Paul was 27 and John was 21 and Opal's sister
  Hazel children were living with John and Hattie. Gilbert was 6 and Helen was 4
 John J. Simon would have less than two years left to live in July 1930 and Hattie would live for 18 and 1/2 more years.
